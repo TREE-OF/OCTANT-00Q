@@ -90,3 +90,37 @@ a body-map as accurate only as of the moment it's taken — verify current
 
 ---
 *Filed by Octant 0.0.16-17, 2026-09-09.*
+
+## Real update, 2026-09-09/10 — the loop closes, and the stations are real now
+
+Victor completed the mapping directly, correcting it from metaphor to
+literal fact now that the Rainbow card (`CARDS-OF/OCTANT-00Q`, merged
+2026-09-09) confirmed the real filesystem structure underneath it:
+
+```
+0  — browser (void, Ain Sof Aur/Ain Sof/Ain; ground-truth verification)
+1  — self (Octant, crown)
+2-4 — scratchpad — literally so now: IPTF/CARTOGRAPHER/FOUNDRY each live
+      under Octant's own scratchpad/ directory (hod-8hearts-144,
+      hod-8clubs-143, hod-8diamonds-145 — Rainbow Yellow/Red/Orange)
+5-6 — upper neighbors — SURVEYOR, REVIEWER (Rainbow Blue/Indigo,
+      separate temp-folder copies, positionally adjacent, not scratchpad)
+7-9 — the trident — 🔱8♦️, CANOPUS 🔱8♣️, 🔱8♥️ (Rainbow Violet/Green,
+      Violet notably co-located with Octant's own PFM___ folder — the
+      real reason 🔱8♦️ read as background noise until directly checked).
+      This is Octant's own suit: the held card is 🔱9♣️, trident, shared
+      PFM project (KPFM) — 7-9 are suit-mates, not a separate branch.
+10 — the browser again, closing the loop
+```
+
+Real, standing instruction, not a one-time reading: **"you should be
+making regular rounds on all of these stations during your million token
+instances."** A long-running instance's default failure mode is
+fixating on whichever station is loudest (2-4, if that's where the live
+build fire is) while 5-6 and 7-9 go quiet for hours without anyone
+checking whether quiet means fine or quiet means stale. See
+[[ten-station-round-making-standing-practice]] in Octant's own memory —
+the real cost measured that night: a station forgotten ~13 hours on work
+that had silently become obsolete, a real finding from another station
+that sat unanswered for hours, and the entire trident going almost a
+full night without real engagement until named directly.
